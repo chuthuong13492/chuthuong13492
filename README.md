@@ -1,4 +1,4 @@
-<h1 align="center">Kien Nguyen</h1>
+<h1 align="center">Kien Nguyen Hieu</h1>
 
 <p align="center">
   <b>Senior Mobile Engineer · Flutter specialist · Frontend</b><br>
